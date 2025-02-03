@@ -55,3 +55,7 @@ efe50cbb488c49f4953ff156caef6d07  rknn_toolkit_lite-1.7.5-cp38-cp38-linux_aarch6
   <img width="200" height="200"  src="https://github.com/rockchip-linux/rknn-toolkit/blob/master/QQGroupQRCode.png" title="QQ Group Chat"/>
   <img width="200" height="200"  src="https://github.com/rockchip-linux/rknn-toolkit/blob/master/QQGroup2QRCode.png" title="QQ Group Chat2"/>
 </center>
+
+
+# video on (YouTube) rknn-toolkit-2 not 1
+https://www.youtube.com/watch?v=TpOx_ieMbK8
